@@ -22,6 +22,7 @@ function GrelhaCurricularTable({ disciplinas }) {
 
     return (
         <div className="overflow-x-auto">
+            
             {Object.entries(disciplinasAgrupadas).map(
                 ([chave, disciplinas]) => (
                     <div key={chave} className="mb-8">
@@ -30,7 +31,7 @@ function GrelhaCurricularTable({ disciplinas }) {
                             <thead>
                                 <tr className="bg-gray-100">
                                     <th className="py-2 px-4 border border-gray-200">
-                                        Nome
+                                        Disciplina
                                     </th>
                                     <th className="py-2 px-4 border border-gray-200">
                                         T
