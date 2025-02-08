@@ -1,8 +1,37 @@
-# React + Vite
+# 🎓 Sistema de gestao de cursos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto desenvolvido em **React** e **Tailwind CSS** para estilização.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
+- 📚 **Gestão de Cursos**
+  - Listar cursos
+  - Cadastrar novos cursos
+- 📖 **Grelha Curricular**
+  - Listar disciplinas
+  - Cadastrar novas disciplinas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
+- React
+- React Router
+- Tailwind CSS
+
+
+
+## ⚙️ Como Executar o Projeto
+1. **Clone ou baixe o projeto**
+2. **Instale as dependências**
+   ```sh
+   npm install
+   ```
+3. **Inicie o servidor de desenvolvimento**
+   ```sh
+   npm run dev
+   ```
+4. **Acesse no navegador**
+   ```
+   http://localhost:5173
+   ```
+
+---
+📌 *Este projeto está em desenvolvimento.!*
+
